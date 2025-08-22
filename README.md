@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Marc Leo C. Mapanao 👋
 
-<!--
-**patataleo/patataleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+I’m Marc Leo C. Mapanao from Santa Cruz, Laguna, currently pursuing a **Bachelor of Science in Information Technology (BSIT)** at **Laguna State Polytechnic University (LSPU)**. I’m passionate about technology and continuously learning how to build and design impactful web applications.
 
-Here are some ideas to get you started:
+## Goals
+My primary goal is to become a **professional Web Designer**. I’m focused on enhancing my technical skills, gaining hands-on experience in web development, and eventually creating innovative, user-friendly, and visually appealing websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming:** Beginner in Python and SQL  
+- **Web Development:** Basic knowledge of Flask  
+- **Scripting & Markup Languages:** HTML, CSS  
+- Currently expanding my knowledge in frontend and backend web technologies.
+
+## Contact
+- **Email:** [mleomapanao@gmail.com](mailto:mleomapanao@gmail.com)
