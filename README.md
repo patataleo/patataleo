@@ -13,7 +13,8 @@ I’m passionate about technology and design, always exploring new ways to build
 - **Programming:** Beginner in Python & SQL  
 - **Web Development:** Basic knowledge of Flask  
 - **Frontend:** HTML & CSS (scripting and styling)  
-- Currently learning more about modern web technologies
+- **Design Tools:** Knowledgeable in Figma & Adobe XD (UI/UX Design)
+- **Currently Learning:** Modern web technologies
 
 ## 📬 Contact  
 - **Email:** [mleomapanao@gmail.com](mailto:mleomapanao@gmail.com)  
