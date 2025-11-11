@@ -13,8 +13,8 @@
 
 ### 🏅 Badges
 <p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Linux%20Essentials-blue?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Operating%20System%20Basics-blue?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="assets/linux-essentials.png" alt="Cisco Linux Essentials" height="150"/>
+  <img src="assets/operating-systems-basics.png" alt="Cisco Operating System Basics" height="150"/>
 </p>
 
 ---
