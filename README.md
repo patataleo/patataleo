@@ -13,28 +13,33 @@
 
 ### 🧰 Tech Stack
 
-<p align="center">
-
 <b>💻 Programming Languages</b><br>
+<p align="center">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 <br><br>
 
 <b>⚙️ Frameworks</b><br>
+<p align="center">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
 <br><br>
 
 <b>🗄️ Database</b><br>
+<p align="center">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase" />
+</p>
 <br><br>
 
 <b>🧠 Software & Tools</b><br>
+<p align="center">
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
@@ -53,12 +58,11 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Patataleo&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patataleo&layout=compact&theme=radical&hide_border=true" />
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patataleo&theme=orange&hide_border=true" alt="GitHub Streak Stats" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=patataleo&show_icons=true&theme=orange&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patataleo&layout=compact&theme=orange&hide_border=true" height="160" />
+</p>
 
 ---
 
