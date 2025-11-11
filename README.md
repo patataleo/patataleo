@@ -5,9 +5,17 @@
 ---
 
 🎓 **Bachelor of Science in Information Technology**  
-💻 **Specialized on Web and Mobile Development**  
+💻 **Specialized in Web and Mobile Development**  
 🏫 **Laguna State Polytechnic University**  
 🚀 I’m passionate about technology and design, always exploring new ways to build creative and user-friendly web experiences.
+
+---
+
+### 🏅 Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-Linux%20Essentials-blue?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Operating%20System%20Basics-blue?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 
 ---
 
@@ -59,9 +67,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patataleo&theme=orange&hide_border=true" alt="GitHub Streak Stats" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=patataleo&show_icons=true&theme=orange&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patataleo&layout=compact&theme=orange&hide_border=true" height="160" />
+
+  <!-- Streak card (big circle flame style) -->
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=patataleo&theme=tokyonight&hide_border=true&card_width=600" alt="streak stats" />
+
+  <!-- Top languages (most used languages box) -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patataleo&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="top languages" />
 </p>
 
 ---
